@@ -20,4 +20,4 @@ try:
         print(result)
 finally:
     # Close the connection, regardless of whether or not the above was successful
-connection.close()
+    connection.close()
